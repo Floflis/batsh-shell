@@ -1,0 +1,5 @@
+https://github.com/batsh-dev-team/Batsh
+https://batsh.org/#
+
+https://github.com/immunant/c2rust
+https://c2rust.com/

@@ -1,3 +1,22 @@
+Support echo
+println("Yes");
+
+parse ";" and new lines
+
+defining text variables
+java = "/usr/bin/java";
+
+number variables
+a = 3;
+
+if/else
+a = 3;
+if (a > 2) {
+  println("Yes");
+} else {
+  println("No");
+}
+
 https://github.com/batsh-dev-team/Batsh
 https://batsh.org/#
 

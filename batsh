@@ -6,4 +6,4 @@ echo "Batsh shell"
 echo -n "❯ "
 read shellinput
 
-echo "Input: $shellinput"
+$shellinput

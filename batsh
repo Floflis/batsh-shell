@@ -1,3 +1,9 @@
 #!/bin/sh
 
 echo "Batsh shell"
+
+#echo -n "❯"
+echo -n "❯ "
+read shellinput
+
+echo "Input: $shellinput"
